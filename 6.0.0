@@ -1,0 +1,7 @@
+Requirement already satisfied: pyinstaller in c:\users\blp-bagas\appdata\local\programs\python\python312\lib\site-packages (6.18.0)
+Requirement already satisfied: altgraph in c:\users\blp-bagas\appdata\local\programs\python\python312\lib\site-packages (from pyinstaller) (0.17.5)
+Requirement already satisfied: packaging>=22.0 in c:\users\blp-bagas\appdata\local\programs\python\python312\lib\site-packages (from pyinstaller) (25.0)
+Requirement already satisfied: pefile>=2022.5.30 in c:\users\blp-bagas\appdata\local\programs\python\python312\lib\site-packages (from pyinstaller) (2024.8.26)
+Requirement already satisfied: pyinstaller-hooks-contrib>=2025.9 in c:\users\blp-bagas\appdata\local\programs\python\python312\lib\site-packages (from pyinstaller) (2025.11)
+Requirement already satisfied: pywin32-ctypes>=0.2.1 in c:\users\blp-bagas\appdata\local\programs\python\python312\lib\site-packages (from pyinstaller) (0.2.3)
+Requirement already satisfied: setuptools>=42.0.0 in c:\users\blp-bagas\appdata\local\programs\python\python312\lib\site-packages (from pyinstaller) (80.9.0)
